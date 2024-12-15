@@ -1,0 +1,8 @@
+Numero de elementos a ordenar: 5
+
+Elementos ordenados:
+1
+2
+3
+4
+5
